@@ -1,2 +1,11 @@
-# Super-Store-Sales-Analysis
-An interactive Super Store Sales Analysis project exploring sales trends, profitability, customer segments, product performance, and regional insights using Power BI.
+Analyze overall sales and profit performance.
+
+Identify top-performing product categories and sub-categories.
+
+Evaluate regional and state-wise sales trends.
+
+Understand customer segments and purchasing behavior.
+
+Identify sales and profit trends over time.
+
+Create interactive visualizations to communicate business insights.
